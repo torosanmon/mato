@@ -1,5 +1,5 @@
 body{
-	background-image: url("picture/rogo.PNG");
+	background-image: url("picture/rogo.png");
 	background-size: cover;
 	animation-name:fadeInAnime;
 	animation-duration:1s;
